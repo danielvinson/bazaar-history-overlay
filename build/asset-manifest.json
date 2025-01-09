@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.8f6acefa.js",
+    "static/js/453.29a7becf.chunk.js": "/static/js/453.29a7becf.chunk.js",
+    "static/media/bazaar-avatar-dooley.jpg": "/static/media/bazaar-avatar-dooley.f55c5eb31812b6d26499.jpg",
+    "static/media/bazaar-avatar-pygmalien.jpg": "/static/media/bazaar-avatar-pygmalien.48085cc5b8fd48a930e7.jpg",
+    "static/media/bazaar-avatar-vanessa.jpg": "/static/media/bazaar-avatar-vanessa.7fc9620191e639585f88.jpg",
+    "static/media/icon-perfect-win-small.png": "/static/media/icon-perfect-win-small.48f265774a9cecbb27f0.png",
+    "static/media/icon-gold-win-small.png": "/static/media/icon-gold-win-small.7fbd7a557125a2bf8479.png",
+    "static/media/icon-bronze-win-small.png": "/static/media/icon-bronze-win-small.f1f19a251240f8971e3e.png",
+    "static/media/icon-silver-win-small.png": "/static/media/icon-silver-win-small.2ab050d05c4972573eb9.png",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.8f6acefa.js.map": "/static/js/main.8f6acefa.js.map",
+    "453.29a7becf.chunk.js.map": "/static/js/453.29a7becf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8f6acefa.js"
+  ]
+}
