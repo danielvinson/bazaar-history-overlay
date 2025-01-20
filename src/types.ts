@@ -3,6 +3,9 @@ export type BIResponse = {
   status: object;
 };
 
+export type Hero = "vanessa" | "pygmalien" | "dooley";
+export type PlayMode = "Unranked" | "Ranked";
+
 export type BIRun = {
   runId: string;
   gamerTag: string;
@@ -12,8 +15,8 @@ export type BIRun = {
     hour: number;
     runId: string;
     state: {
-      hero: "vanessa" | "pygmalien" | "dooley";
-      playMode: "Unranked" | "Ranked";
+      hero: Hero;
+      playMode: PlayMode;
       gameModeId: string;
       victories: number;
       defeats: number;
