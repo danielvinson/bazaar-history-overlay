@@ -18,3 +18,7 @@ name: string | null; // gamerTag
 useResultStyles: boolean;
 maxRuns: number;
 showRunStats: boolean;
+
+## Example
+
+![sample run history screenshot](./docs/example-screenshot.png "Sample Run History Screenshot")
